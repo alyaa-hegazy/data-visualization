@@ -1,0 +1,2 @@
+# data-visualization
+This notebook file includes analysis of the now show appointments dataset. The dataset includes 14 variables that describe several characteristics of Brazilian patients to study the factors behind showing up or not to their medical appointments. In this notebook two main libraries in python are used: matplotlib and seaborn. These libraries were used to create uni-variate, bi-variate and multivariate visualizations of the dataset.
